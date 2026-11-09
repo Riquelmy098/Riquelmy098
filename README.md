@@ -65,16 +65,6 @@ Ainda não tenho nenhum projeto grande pronto, mas estou aprendendo e construind
 
 ---
 
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riquelmy098&bg_color=0D1117&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
