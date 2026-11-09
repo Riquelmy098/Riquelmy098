@@ -116,5 +116,5 @@ Ainda não tenho nenhum projeto grande pronto, mas estou aprendendo e construind
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22D3EE,100:7C3AED&section=footer&text=averaxy&fontColor=ffffff&fontSize=28&fontAlignY=65" alt="Rodapé averaxy" width="100%"/>
-  <sub>feito do celular, com Godot e teimosia 📱</sub>
+  <sub>feito do celular 📱</sub>
 </div>
