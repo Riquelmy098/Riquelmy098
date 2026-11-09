@@ -48,15 +48,6 @@ Ainda não tenho nenhum projeto grande pronto, mas estou aprendendo e construind
 
 </div>
 
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Riquelmy098&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riquelmy098&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top Languages" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Riquelmy098&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" />
